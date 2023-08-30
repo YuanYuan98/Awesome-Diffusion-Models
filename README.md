@@ -10347,8 +10347,8 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2305.16618)] [[Github](https://github.
 
 **Spatio-temporal Diffusion Point Processes** \
 *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2305.12403)] [[Github](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)] \
-21 May 2023
+KDD 2023. [[Paper](https://dl.acm.org/doi/10.1145/3580305.3599511)] [[Github](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)] \
+8 August 2023
 
 **Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling** \
 *Xiaohui Chen, Jiaxing He, Xu Han, Li-Ping Liu* \
